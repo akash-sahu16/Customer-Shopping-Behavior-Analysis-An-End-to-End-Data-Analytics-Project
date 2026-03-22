@@ -6,7 +6,6 @@ This project analyzes customer shopping behavior using transactional data (~3,90
 
 The objective is to convert raw data into actionable insights that support business decision-making, improve customer targeting, and optimize revenue strategies.
 
----
 
 ## 🧩 Project Workflow
 
@@ -26,7 +25,6 @@ The complete end-to-end pipeline of this project is illustrated below:
 6. **Project Report & Presentation (Gamma AI)**
 7. **Deployment on GitHub**
 
----
 
 ## 🎯 Key Objectives
 
@@ -36,7 +34,6 @@ The complete end-to-end pipeline of this project is illustrated below:
 * Understand category-wise revenue trends
 * Support data-driven business strategies
 
----
 
 ## 📊 Dataset Summary
 
@@ -49,7 +46,6 @@ The complete end-to-end pipeline of this project is illustrated below:
 * Purchase details (Category, Item, Amount)
 * Behavioral metrics (Frequency, Subscription, Discounts)
 
----
 
 ## 🛠️ Tools & Technologies
 
@@ -58,7 +54,6 @@ The complete end-to-end pipeline of this project is illustrated below:
 * Power BI
 * Jupyter Notebook
 
----
 
 ## 🔍 Key Insights
 
@@ -67,7 +62,6 @@ The complete end-to-end pipeline of this project is illustrated below:
 * Repeat customers contribute significantly to revenue
 * Purchase behavior varies across demographics
 
----
 
 ## 📊 Dashboard
 
@@ -77,7 +71,6 @@ Power BI dashboard provides:
 * Customer segmentation
 * Product performance analysis
 
----
 
 ## 📁 Project Structure
 
@@ -92,7 +85,6 @@ Power BI dashboard provides:
 └── README.md
 ```
 
----
 
 ## 💡 Business Impact
 
